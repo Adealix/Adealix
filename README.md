@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 # 💫 About Me
 I’m a third-year BSIT student focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
+- [Facebook](https://www.facebook.com/adealixm/)
+- [Instagram](https://www.instagram.com/adealixm/)
+- [Gmail] adealixmaranan123@gmail.com
+- [YouTube](https://www.youtube.com/@adealix)
+
 ---
 
 ## 🚀 What I'm up to
@@ -32,8 +37,8 @@ Check out my portfolio: (Currently work-in-progress, hehe) **[your-portfolio-lin
 
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-✉️ your-email@example.com · Portfolio: `https://your-portfolio-link`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealix-jairon-maranan-388501373)  
 
 ---
 
