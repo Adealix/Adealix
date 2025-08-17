@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 # 💫 About Me
 I’m a third-year BSIT student focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
-- [![Facebook](https://www.facebook.com/adealixm/)
-- [![Instagram](https://www.instagram.com/adealixm/)
-- [![YouTube](https://www.youtube.com/@adealix)
+- [Facebook](https://www.facebook.com/adealixm/)
+- [Instagram](https://www.instagram.com/adealixm/)
+- [YouTube](https://www.youtube.com/@adealix)
 
 ---
 
