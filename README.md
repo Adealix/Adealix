@@ -20,10 +20,15 @@ Here are some ideas to get you started:
 # 💫 About Me
 I’m a third-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
+---
+
+## 🌐 Connect with Me
+
 - [Facebook](https://www.facebook.com/adealixm/)
 - [Instagram](https://www.instagram.com/adealixm/)
 - [YouTube](https://www.youtube.com/@adealix)
-- Email: adealixmaranan123@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealix-jairon-maranan-388501373)  
+- adealixmaranan123@gmail.com
 
 ---
 
@@ -37,10 +42,6 @@ Check out my portfolio: **(Currently work-in-progress, hehe)**
 
 ## 🌱 What I’m working on
 - ⚛️ Learning React.js to achieve full stack
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealix-jairon-maranan-388501373)  
 
 ---
 
@@ -91,5 +92,11 @@ Key subjects and hands-on topics I’ve covered:
 - Content Management Systems: WordPress, Joomla, Drupal
 
 ---
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Adealix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut&theme=dark&hide_border=false&include_all_commits=true&count_private=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)--!>
+
+
