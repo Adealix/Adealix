@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋 I'm Adealix</h1>
+<h1 align="center">Hi 👋 I'm Adealix Jairon</h1>
 
 # 💫 About Me
-I’m a third-year BSIT student focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
+I’m a third-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
 - [Facebook](https://www.facebook.com/adealixm/)
 - [Instagram](https://www.instagram.com/adealixm/)
