@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 # 💫 About Me
 I’m a third-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
+- Location: Taguig, Philippines  
 - [Facebook](https://www.facebook.com/adealixm/)
 - [Instagram](https://www.instagram.com/adealixm/)
 - [YouTube](https://www.youtube.com/@adealix)
+- [Email]: adealixmaranan123@gmail.com
 
 ---
 
@@ -73,6 +75,21 @@ Check out my portfolio: **(Currently work-in-progress, hehe)**
 
 **Learning / Future**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+## 🎓 Education & relevant coursework
+**Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
+Key subjects and hands-on topics I’ve covered:
+- Data Structures & Algorithms (implementation and problem solving)  
+- Database Systems: MySQL (XAMPP), normalization, relationships, advanced SQL queries  
+- Web fundamentals: HTML, CSS, JavaScript (frontend basics)  
+- Backend development: Node.js, PHP, Laravel (MVC, Eloquent, migrations)  
+- Systems & Embedded: Logic & Digital Circuit Design, Computer Organization & Assembly, Arduino C, ESP32 projects  
+- Data Communication & Networking: cabling, RJ45, network concepts (hands-on)  
+- Operating Systems: VM setup and installation (VirtualBox / Oracle VM)  
+- Information Assurance & Security fundamentals; Software Engineering principles  
+- Content Management Systems: WordPress, Joomla, Drupal
 
 ---
 
