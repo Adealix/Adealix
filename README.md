@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Adealix</h1>
 
 # 💫 About Me
-I’m a third-year BSIT student focused on backend development, databases, and building practical full-stack apps. I build APIs, design normalized databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
+I’m a third-year BSIT student focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
 ---
 
