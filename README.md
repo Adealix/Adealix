@@ -34,6 +34,8 @@ I’m a third-year BSIT student focused on backend development, databases, and b
 
 Check out my portfolio: **(Currently work-in-progress, hehe)**
 
+## 🌱 What I’m working on
+- ⚛️ Learning React.js to achieve full stack
 
 ## 🌐 Connect
 
@@ -74,4 +76,4 @@ Check out my portfolio: **(Currently work-in-progress, hehe)**
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
