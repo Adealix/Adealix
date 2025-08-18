@@ -22,16 +22,6 @@ I’m a third-year BSIT student based on Technological University of the Philipp
 
 ---
 
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adealixm/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adealixm/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@adealix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealix-jairon-maranan-388501373)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adealixmaranan123@gmail.com)
-
----
-
 ## 🚀 What I'm up to
 - 🔧 Building API-driven e-commerce projects (Node.js, Laravel)  
 - 🗄️ Improving SQL performance and database design (MySQL / XAMPP)  
@@ -42,6 +32,16 @@ Check out my portfolio: **(Currently work-in-progress, hehe)**
 
 ## 🌱 What I’m working on
 - ⚛️ Learning React.js to achieve full stack
+
+---
+
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adealixm/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adealixm/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@adealix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealix-jairon-maranan-388501373)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adealixmaranan123@gmail.com)
 
 ---
 
