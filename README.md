@@ -29,8 +29,17 @@ I’m a third-year BSIT student based on Technological University of the Philipp
 - ⚛️ Learning React to ship full MERN apps
 
 Check out my portfolio: **(Currently work-in-progress, hehe)**
-- https://adealixmaranan123.wixsite.com/adealix-projects
-- 
+- Portfolio as Programmer and Developer (BSIT):
+https://adealix.netlify.app/
+
+- GitHub Profile:
+https://github.com/Adealix/
+
+- Multimedia Portfolio:
+https://adealixmaranan123.wixsite.com/adealix-projects
+
+- Operating System Portfolio:
+https://adealixmaranan123.wixsite.com/operating-systems
 
 ## 🌱 What I’m working on
 - ⚛️ Learning React.js to achieve full stack
