@@ -29,6 +29,8 @@ I’m a third-year BSIT student based on Technological University of the Philipp
 - ⚛️ Learning React to ship full MERN apps
 
 Check out my portfolio: **(Currently work-in-progress, hehe)**
+- https://adealixmaranan123.wixsite.com/adealix-projects
+- 
 
 ## 🌱 What I’m working on
 - ⚛️ Learning React.js to achieve full stack
