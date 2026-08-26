@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Adealix Jairon</h1>
 
 # 💫 About Me
-I’m a third-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
+I’m a fourth-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
 
 ---
 
