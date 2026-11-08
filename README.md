@@ -82,17 +82,17 @@ Hands-on work with incubator hardware and greenhouse automation for sun shading,
 
 ## 🎓 Credentials
 
-Course and module completion credentials from **Cisco Networking Academy**. Click a title to view the certificate.
+Course and module completion credentials from **Cisco Networking Academy**. Linked titles open public Cisco-issued badges on Credly. [View my badge wallet](https://www.credly.com/users/adealix-jairon-maranan).
 
-- [English for IT 1](https://www.netacad.com/certificates/?issuanceId=88375be1-bb06-47b1-ba21-3dc908d362cd)
-- [Networking Devices and Initial Configuration](https://www.netacad.com/certificates/?issuanceId=bcb1aeef-64b3-49f2-a2fb-036c29b5881a)
-- [Introduction to Cybersecurity](https://www.netacad.com/certificates/?issuanceId=d91b7ef6-81cd-4712-b626-c5bb0b54a3ce)
-- [Getting Started with Cisco Packet Tracer](https://www.netacad.com/certificates/?issuanceId=063e6456-36c1-4342-a4e6-a5766ad986b2)
-- [Python Essentials 2](https://www.netacad.com/certificates/?issuanceId=ae3b6127-f0f4-4763-be4c-511285c1e35b)
-- [JavaScript Essentials 2](https://www.netacad.com/certificates/?issuanceId=90393f56-d9a4-42bc-be2f-7323c0edf540)
-- [Python Essentials 1](https://www.netacad.com/certificates/?issuanceId=0342da07-aa33-4195-b33a-a3390f4a4d59)
-- [JavaScript Essentials 1](https://www.netacad.com/certificates/?issuanceId=791a293a-cf13-4051-ad80-1f2023923267)
-- [Introduction to IoT](https://www.netacad.com/certificates/?issuanceId=42c748a8-fa66-45de-b5e9-dc7cff341220)
+- [English for IT 1](https://www.credly.com/badges/e60a7d2e-0ffe-49be-b977-973d24af2ccc/public_url)
+- [Networking Devices and Initial Configuration](https://www.credly.com/badges/535a68d6-8238-43b2-bf8c-bce92c182ca0/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/6b556bf1-70df-4da6-b06c-2f86e2fbe014/public_url)
+- Getting Started with Cisco Packet Tracer (course completion certificate)
+- [Python Essentials 2](https://www.credly.com/badges/83ed1334-e5e4-4601-a7bd-da77f295607b/public_url)
+- [JavaScript Essentials 2](https://www.credly.com/badges/e4bebdac-4f56-4459-9ae9-31696bfa7e90/public_url)
+- [Python Essentials 1](https://www.credly.com/badges/918f11f3-04f4-4abd-9feb-d7ea7266be48/public_url)
+- [JavaScript Essentials 1](https://www.credly.com/badges/eb5352c9-7301-412d-bad7-67d055be5b00/public_url)
+- [Introduction to IoT](https://www.credly.com/badges/1a9101d1-17fc-4b32-8894-2a12ec685f28/public_url)
 
 ## 📸 Beyond the code
 
