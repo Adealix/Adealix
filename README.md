@@ -87,7 +87,6 @@ Course and module completion credentials from **Cisco Networking Academy**. Link
 - [English for IT 1](https://www.credly.com/badges/e60a7d2e-0ffe-49be-b977-973d24af2ccc/public_url)
 - [Networking Devices and Initial Configuration](https://www.credly.com/badges/535a68d6-8238-43b2-bf8c-bce92c182ca0/public_url)
 - [Introduction to Cybersecurity](https://www.credly.com/badges/6b556bf1-70df-4da6-b06c-2f86e2fbe014/public_url)
-- Getting Started with Cisco Packet Tracer (course completion certificate)
 - [Python Essentials 2](https://www.credly.com/badges/83ed1334-e5e4-4601-a7bd-da77f295607b/public_url)
 - [JavaScript Essentials 2](https://www.credly.com/badges/e4bebdac-4f56-4459-9ae9-31696bfa7e90/public_url)
 - [Python Essentials 1](https://www.credly.com/badges/918f11f3-04f4-4abd-9feb-d7ea7266be48/public_url)
