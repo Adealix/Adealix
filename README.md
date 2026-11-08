@@ -67,10 +67,17 @@ Completed through **Cisco Networking Academy**. These are course/module completi
 - [Development portfolio](https://adealix.netlify.app/)
 - [Operating Systems portfolio](https://adealixmaranan123.wixsite.com/operating-systems)
 - [Multimedia portfolio](https://adealixmaranan123.wixsite.com/adealix-projects)
-- [LinkedIn](https://www.linkedin.com/in/adealixmaranan/)
-- [Email](mailto:adealixmaranan123@gmail.com)
-- [Facebook](https://www.facebook.com/adealixm/) · [Instagram](https://www.instagram.com/adealixm/) · [YouTube](https://www.youtube.com/@adealix)
+
+### Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adealixm/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adealixm/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@adealix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adealixmaranan/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adealixmaranan123@gmail.com)
 
 ## GitHub languages
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/Adealix?tab=repositories)
+[![GitHub languages](assets/github-languages.svg)](https://github.com/Adealix?tab=repositories)
+
+*Snapshot of public, non-fork repository language bytes as of November 8, 2026; excludes this profile repository. This chart is not a measure of proficiency.*
