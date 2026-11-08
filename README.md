@@ -1,112 +1,76 @@
-<!-- Hi there 👋 -->
+# Hi, I'm Adealix Jairon Maranan 👋
 
-<!--
-**Adealix/Adealix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSIT student · Developer · Software QA · IoT enthusiast**
 
-Here are some ideas to get you started:
+I'm a fourth-year Bachelor of Science in Information Technology student at **Technological University of the Philippines – Taguig**, with expected graduation in **August 2027**. I build web and mobile applications, plan software tests, and work on practical IoT and AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring entry-level **technical support and service desk** opportunities, alongside customer service, software QA, and development roles. I'm available to start soon and open to onsite work.
 
-<h1 align="center">Hi 👋 I'm Adealix Jairon</h1>
+## What I'm working on
 
-# 💫 About Me
-I’m a fourth-year BSIT student based on Technological University of the Philippines - Taguig, Philippines, focused on backend development, databases, and building practical full-stack apps. I build APIs, design databases, and prototype IoT projects. Currently learning React to complete a MERN stack workflow.
+### Artisam Labs — Lead Developer
+**August 2026 – Present**
 
----
+I primarily own implementation rather than manage other developers. My work spans Stellar applications, software QA, and technical media.
 
-## 🚀 What I'm up to
-- 🔧 Building API-driven e-commerce projects (Node.js, Laravel)  
-- 🗄️ Improving SQL performance and database design (MySQL / XAMPP)  
-- 🌱 Prototyping IoT systems with ESP32 and Arduino  
-- ⚛️ Learning React to ship full MERN apps
+- **Firebreak:** Implementation of a Stellar incident-signal registry with dashboard and administrative tools. It shares incident signals so participating protocols can decide how to respond.
+- **Kleym:** Implementation of a Stellar Testnet MVP that distributes rewards through individual claim links. It is undergoing internal validation, with Mainnet disabled and no external users onboarded yet.
+- **[Lantern](https://github.com/kimerran/stellar-lantern):** QA engineer/software tester creating weekly test plans aligned with project deliverables; also producing promotional and tutorial media.
+- **Team activities:** 321BuildersCamp and project presentations at Asia Pacific College and Block Quest Fiesta PH in Laguna. I also provide event photography and videography.
 
-Check out my portfolio: **(Currently work-in-progress, hehe)**
-- Portfolio as Programmer and Developer (BSIT):
-https://adealix.netlify.app/
+### Freelance system development
+**December 2024 – April 2026**
 
-- GitHub Profile:
-https://github.com/Adealix/
+Developed commissioned POS, booking, marketplace, gamification, and e-commerce applications using technologies including Laravel/PHP, React, React Native/Expo, JavaScript, MySQL, and MongoDB.
 
-- Multimedia Portfolio:
-https://adealixmaranan123.wixsite.com/adealix-projects
+## Academic projects and practical work
 
-- Operating System Portfolio:
-https://adealixmaranan123.wixsite.com/operating-systems
+- **Terminalia Catappa Seed-to-Oil:** Led AI application development using AutoML and the project's written documentation for seed-to-oil processing.
+- **IoT and embedded systems:** Arduino, ESP32, Raspberry Pi, crayfish-incubator hardware, and greenhouse automation for sun shading, watering, and plant growing conditions.
+- **Operating-system labs:** Windows installation, VirtualBox, file-server and RAID setup; networking fundamentals and RJ45 cabling.
+- **MMDA “Bagong Gawi, Bagong Galaw Challenge”:** Participated in proposing smartphone applications for smarter travel and traffic management.
 
-## 🌱 What I’m working on
-- ⚛️ Learning React.js to achieve full stack
+## Skills
 
----
+| Area | Technologies and experience |
+| --- | --- |
+| Web and mobile | JavaScript, TypeScript, PHP, React, React Native, Expo, Node.js, Express, Laravel, jQuery, HTML, CSS |
+| Programming and data | Python, C++, SQL, MySQL, PostgreSQL, MongoDB, AutoML |
+| QA and tools | Weekly test planning, Postman, Insomnia, Git, GitHub, technical documentation |
+| Systems and IoT | Windows, VirtualBox, networking fundamentals, Arduino, ESP32, Raspberry Pi |
+| Media | Photography, videography, Blender animation, rotoscoping, Adobe Photoshop, tutorial production |
 
-## 🌐 Connect with Me
+**Currently studying:** Mobile App Development using Java. My coursework also includes Operating Systems, Data Communication and Networking, Database Systems, Information Assurance and Security, IoT, and Software and Web Development.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adealixm/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adealixm/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@adealix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/adealixmaranan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adealixmaranan123@gmail.com)
+## Completed training and badges
 
----
+Completed through **Cisco Networking Academy**. These are course/module completion credentials and badges, not claims of passing separate professional certification exams. Listed with support-related learning first.
 
-# 💻 Tech Stack
+| Credential | Completed |
+| --- | --- |
+| English for IT 1 — 50 hours | October 17, 2026 |
+| Networking Devices and Initial Configuration | October 7, 2026 |
+| Introduction to Cybersecurity | October 6, 2026 |
+| Getting Started with Cisco Packet Tracer — module certificate | October 6, 2026 |
+| Python Essentials 2 | October 7, 2026 |
+| JavaScript Essentials 2 | October 17, 2026 |
+| Python Essentials 1 | October 6, 2026 |
+| JavaScript Essentials 1 | October 7, 2026 |
+| Introduction to IoT | October 6, 2026 |
 
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Volunteering
 
-**Backend & Frameworks**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Philippine Blockchain Week — June 2026:** Managed event paperwork and supported organisers with assigned administrative tasks. Received a participation certificate.
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Portfolios and contact
 
-**Frontend & Tools**  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-0ACF83?style=for-the-badge&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- [Development portfolio](https://adealix.netlify.app/)
+- [Operating Systems portfolio](https://adealixmaranan123.wixsite.com/operating-systems)
+- [Multimedia portfolio](https://adealixmaranan123.wixsite.com/adealix-projects)
+- [LinkedIn](https://www.linkedin.com/in/adealixmaranan/)
+- [Email](mailto:adealixmaranan123@gmail.com)
+- [Facebook](https://www.facebook.com/adealixm/) · [Instagram](https://www.instagram.com/adealixm/) · [YouTube](https://www.youtube.com/@adealix)
 
-**Embedded / IoT**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-2B2B2B?style=for-the-badge&logo=espressif&logoColor=white)
+## GitHub languages
 
-**Learning / Future**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
-
-## 🎓 Education & relevant coursework
-**Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
-Key subjects and hands-on topics I’ve covered:
-- Data Structures & Algorithms (implementation and problem solving)  
-- Database Systems: MySQL (XAMPP), normalization, relationships, advanced SQL queries  
-- Web fundamentals: HTML, CSS, JavaScript (frontend basics)  
-- Backend development: Node.js, PHP, Laravel (MVC, Eloquent, migrations)  
-- Systems & Embedded: Logic & Digital Circuit Design, Computer Organization & Assembly, Arduino C, ESP32 projects  
-- Data Communication & Networking: cabling, RJ45, network concepts (hands-on)  
-- Operating Systems: VM setup and installation (VirtualBox / Oracle VM)  
-- Information Assurance & Security fundamentals; Software Engineering principles  
-- Content Management Systems: WordPress, Joomla, Drupal
-
----
-# 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut&theme=dark&hide_border=false&include_all_commits=true&count_private=false&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)--!>
-
-
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adealix&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/Adealix?tab=repositories)
