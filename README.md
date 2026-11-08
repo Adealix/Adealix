@@ -82,7 +82,22 @@ Hands-on work with incubator hardware and greenhouse automation for sun shading,
 
 ## 🎓 Credentials
 
-Course and module completion credentials from **Cisco Networking Academy**. Linked titles open public Cisco-issued badges on Credly. [View my badge wallet](https://www.credly.com/users/adealix-jairon-maranan).
+### Course Completion Certificates
+
+Issued by **Cisco Networking Academy**.
+
+- English for IT 1
+- Networking Devices and Initial Configuration
+- Introduction to Cybersecurity
+- Python Essentials 2
+- JavaScript Essentials 2
+- Python Essentials 1
+- JavaScript Essentials 1
+- Introduction to IoT
+
+### Verified Digital Badges
+
+Cisco-issued badges that can be viewed without signing in. [View my Credly badge wallet](https://www.credly.com/users/adealix-jairon-maranan).
 
 - [English for IT 1](https://www.credly.com/badges/e60a7d2e-0ffe-49be-b977-973d24af2ccc/public_url)
 - [Networking Devices and Initial Configuration](https://www.credly.com/badges/535a68d6-8238-43b2-bf8c-bce92c182ca0/public_url)
