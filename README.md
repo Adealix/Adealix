@@ -82,19 +82,6 @@ Hands-on work with incubator hardware and greenhouse automation for sun shading,
 
 ## 🎓 Credentials
 
-### Course Completion Certificates
-
-Issued by **Cisco Networking Academy**.
-
-- English for IT 1
-- Networking Devices and Initial Configuration
-- Introduction to Cybersecurity
-- Python Essentials 2
-- JavaScript Essentials 2
-- Python Essentials 1
-- JavaScript Essentials 1
-- Introduction to IoT
-
 ### Verified Digital Badges
 
 Cisco-issued badges that can be viewed without signing in. [View my Credly badge wallet](https://www.credly.com/users/adealix-jairon-maranan).
