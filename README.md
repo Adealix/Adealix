@@ -48,15 +48,15 @@ Completed through **Cisco Networking Academy**. These are course/module completi
 
 | Credential | Completed |
 | --- | --- |
-| English for IT 1 — 50 hours | October 17, 2026 |
-| Networking Devices and Initial Configuration | October 7, 2026 |
-| Introduction to Cybersecurity | October 6, 2026 |
-| Getting Started with Cisco Packet Tracer — module certificate | October 6, 2026 |
-| Python Essentials 2 | October 7, 2026 |
-| JavaScript Essentials 2 | October 17, 2026 |
-| Python Essentials 1 | October 6, 2026 |
-| JavaScript Essentials 1 | October 7, 2026 |
-| Introduction to IoT | October 6, 2026 |
+| [English for IT 1 — 50 hours](https://www.netacad.com/certificates/?issuanceId=88375be1-bb06-47b1-ba21-3dc908d362cd) | October 17, 2026 |
+| [Networking Devices and Initial Configuration](https://www.netacad.com/certificates/?issuanceId=bcb1aeef-64b3-49f2-a2fb-036c29b5881a) | October 7, 2026 |
+| [Introduction to Cybersecurity](https://www.netacad.com/certificates/?issuanceId=d91b7ef6-81cd-4712-b626-c5bb0b54a3ce) | October 6, 2026 |
+| [Getting Started with Cisco Packet Tracer — module certificate](https://www.netacad.com/certificates/?issuanceId=063e6456-36c1-4342-a4e6-a5766ad986b2) | October 6, 2026 |
+| [Python Essentials 2](https://www.netacad.com/certificates/?issuanceId=ae3b6127-f0f4-4763-be4c-511285c1e35b) | October 7, 2026 |
+| [JavaScript Essentials 2](https://www.netacad.com/certificates/?issuanceId=90393f56-d9a4-42bc-be2f-7323c0edf540) | October 17, 2026 |
+| [Python Essentials 1](https://www.netacad.com/certificates/?issuanceId=0342da07-aa33-4195-b33a-a3390f4a4d59) | October 6, 2026 |
+| [JavaScript Essentials 1](https://www.netacad.com/certificates/?issuanceId=791a293a-cf13-4051-ad80-1f2023923267) | October 7, 2026 |
+| [Introduction to IoT](https://www.netacad.com/certificates/?issuanceId=42c748a8-fa66-45de-b5e9-dc7cff341220) | October 6, 2026 |
 
 ## Volunteering
 
